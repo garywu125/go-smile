@@ -1,9 +1,11 @@
 package main
 
 import (
+	"fmt"
 	"os"
 
 	log "github.com/sirupsen/logrus"
+	"rsc.io/quote"
 )
 
 func init() {
@@ -30,7 +32,7 @@ func main() {
 	log.Info("Some info. Earth is not flat.")
 	log.Warning("This is a warning")
 	log.Error("Not fatal. An error. Won't stop execution")
+	fmt.Println(quote.Hello())
 	log.Fatal("MAYDAY MAYDAY MAYDAY. Execution will be stopped here")
 	log.Panic("Do not panic")
-
 }
