@@ -9,7 +9,7 @@ import (
 	log "github.com/sirupsen/logrus"
 	"rsc.io/quote"
 
-	f1 "github.com/garywu125/smile/feature01"
+	f1 "github.com/garywu125/go-smile/feature01"
 )
 
 func init() {
