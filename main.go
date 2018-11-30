@@ -10,6 +10,8 @@ import (
 	"rsc.io/quote"
 
 	f1 "github.com/garywu125/go-smile/feature01"
+	f2 "github.com/garywu125/go-smile/feature02"
+	f3 "github.com/garywu125/go-smile/feature03"
 )
 
 func init() {
@@ -37,6 +39,8 @@ func main() {
 	log.Warning("This is a warning")
 	log.Error("Not fatal. An error. Won't stop execution")
 	f1.PrintFeature01()
+	f2.PrintFeature02()
+	f3.PrintFeature03()
 
 	fmt.Println("quote hello:", quote.Hello())
 
