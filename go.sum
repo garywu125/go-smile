@@ -6,6 +6,8 @@ github.com/garywu125/ellipse v0.0.0-20181128113054-1dfc4344482c h1:Qu0MLAKEk76qE
 github.com/garywu125/ellipse v0.0.0-20181128113054-1dfc4344482c/go.mod h1:yPgj6di9W5O5/gfMwHjXzN0vZbzLoqhuTPzs8bUsnp0=
 github.com/garywu125/ellipse v0.0.0-20181128115331-7fce516ee782 h1:9Q1L6mw8gptafSeQLpWqwdkbW9EfzE3N1D8+8yeJ0N4=
 github.com/garywu125/ellipse v0.0.0-20181128115331-7fce516ee782/go.mod h1:yPgj6di9W5O5/gfMwHjXzN0vZbzLoqhuTPzs8bUsnp0=
+github.com/garywu125/ellipse v0.0.0-20181128123803-65fb0ef8b9b2 h1:G3yiC6l2EiMlNMiie42rNdHmM4JOgj6EYNf+jm1U+gs=
+github.com/garywu125/ellipse v0.0.0-20181128123803-65fb0ef8b9b2/go.mod h1:LEbXHU0XMUNE3LxE6FkNWu4rNUMaH7C83apsJivYS3E=
 github.com/garywu125/ellipse/hello v0.0.0-20181128115331-7fce516ee782 h1:EU7hkgxKfMNPy1+UI47h3bx8My1H9toUnDthGC8HbWg=
 github.com/garywu125/ellipse/hello v0.0.0-20181128115331-7fce516ee782/go.mod h1:evXxdiq1WH9XBZMaLXVlxeivIGtpnIjuGkSabViAx4Y=
 github.com/garywu125/ellipse/hello v0.0.0-20181128123525-742723484159 h1:VsXX4DmbflzgpC1Yo0pA99ESF6TIzLa7x3qSv34YOtQ=
@@ -21,11 +23,17 @@ github.com/stretchr/objx v0.1.1/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+
 github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
 golang.org/x/crypto v0.0.0-20180904163835-0709b304e793 h1:u+LnwYTOOW7Ukr/fppxEb1Nwz0AtPflrblfvUudpo+I=
 golang.org/x/crypto v0.0.0-20180904163835-0709b304e793/go.mod h1:6SG95UA2DQfeDnfUPMdvaQW0Q7yPrPDi9nlGo2tz2b4=
+golang.org/x/crypto v0.0.0-20181127143415-eb0de9b17e85/go.mod h1:6SG95UA2DQfeDnfUPMdvaQW0Q7yPrPDi9nlGo2tz2b4=
 golang.org/x/sys v0.0.0-20180905080454-ebe1bf3edb33 h1:I6FyU15t786LL7oL/hn43zqTuEGr4PN7F4XJ1p4E3Y8=
 golang.org/x/sys v0.0.0-20180905080454-ebe1bf3edb33/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
+golang.org/x/sys v0.0.0-20181128092732-4ed8d59d0b35/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
 golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c h1:qgOY6WgZOaTkIIMiVjBQcw93ERBE4m30iBm00nkL0i8=
 golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
+golang.org/x/text v0.3.0 h1:g61tztE5qeGQ89tm6NTjjM9VPIm088od1l6aSorWRWg=
+golang.org/x/text v0.3.0/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
 rsc.io/quote v1.5.2 h1:w5fcysjrx7yqtD/aO+QwRjYZOKnaM9Uh2b40tElTs3Y=
 rsc.io/quote v1.5.2/go.mod h1:LzX7hefJvL54yjefDEDHNONDjII0t9xZLPXsUe+TKr0=
 rsc.io/sampler v1.3.0 h1:7uVkIFmeBqHfdjD+gZwtXXI+RODJ2Wc4O7MPEh/QiW4=
 rsc.io/sampler v1.3.0/go.mod h1:T1hPZKmBbMNahiBKFy5HrXp6adAjACjK9JXDnKaTXpA=
+rsc.io/sampler v1.99.99 h1:7i08f/p5TBU5joCPW3GjWG1ZFCmr28ybGqlXtelhEK8=
+rsc.io/sampler v1.99.99/go.mod h1:T1hPZKmBbMNahiBKFy5HrXp6adAjACjK9JXDnKaTXpA=
