@@ -4,8 +4,12 @@ import (
 	"fmt"
 	"os"
 
+	"github.com/garywu125/ellipse"
+	"github.com/garywu125/ellipse/hello"
 	log "github.com/sirupsen/logrus"
 	"rsc.io/quote"
+
+	f1 "github.com/garywu125/smile/feature01"
 )
 
 func init() {
@@ -32,7 +36,18 @@ func main() {
 	log.Info("Some info. Earth is not flat.")
 	log.Warning("This is a warning")
 	log.Error("Not fatal. An error. Won't stop execution")
-	fmt.Println(quote.Hello())
+	f1.PrintFeature01()
+
+	fmt.Println("quote hello:", quote.Hello())
+
+	//Initalise the Init function with value of A,B
+	e := ellipse.Init{
+		9, 2,
+	}
+
+	hello.Greeting()
+	//this will give answer as 0.9749960430435691
+	log.Info("GetEccentricity:", e.GetEccentricity())
 	log.Fatal("MAYDAY MAYDAY MAYDAY. Execution will be stopped here")
 	log.Panic("Do not panic")
 }

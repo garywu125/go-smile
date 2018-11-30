@@ -1,4 +1,17 @@
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/garywu125/ellipse v0.0.0-20181128111257-11fced002ce9 h1:KX+8Rie07MMiH+92GWbPErEdhY/8A/pyjs7suW7f++Y=
+github.com/garywu125/ellipse v0.0.0-20181128111458-f44abe291e05 h1:CIKLGb8NQvUCY+gQSCILzB5jRjY3sWvGpju/Fku2guw=
+github.com/garywu125/ellipse v0.0.0-20181128111458-f44abe291e05/go.mod h1:yPgj6di9W5O5/gfMwHjXzN0vZbzLoqhuTPzs8bUsnp0=
+github.com/garywu125/ellipse v0.0.0-20181128113054-1dfc4344482c h1:Qu0MLAKEk76qEMf56qSjRTKQ5k80aLbmXp/+KbwYVQ8=
+github.com/garywu125/ellipse v0.0.0-20181128113054-1dfc4344482c/go.mod h1:yPgj6di9W5O5/gfMwHjXzN0vZbzLoqhuTPzs8bUsnp0=
+github.com/garywu125/ellipse v0.0.0-20181128115331-7fce516ee782 h1:9Q1L6mw8gptafSeQLpWqwdkbW9EfzE3N1D8+8yeJ0N4=
+github.com/garywu125/ellipse v0.0.0-20181128115331-7fce516ee782/go.mod h1:yPgj6di9W5O5/gfMwHjXzN0vZbzLoqhuTPzs8bUsnp0=
+github.com/garywu125/ellipse/hello v0.0.0-20181128115331-7fce516ee782 h1:EU7hkgxKfMNPy1+UI47h3bx8My1H9toUnDthGC8HbWg=
+github.com/garywu125/ellipse/hello v0.0.0-20181128115331-7fce516ee782/go.mod h1:evXxdiq1WH9XBZMaLXVlxeivIGtpnIjuGkSabViAx4Y=
+github.com/garywu125/ellipse/hello v0.0.0-20181128123525-742723484159 h1:VsXX4DmbflzgpC1Yo0pA99ESF6TIzLa7x3qSv34YOtQ=
+github.com/garywu125/ellipse/hello v0.0.0-20181128123525-742723484159/go.mod h1:evXxdiq1WH9XBZMaLXVlxeivIGtpnIjuGkSabViAx4Y=
+github.com/garywu125/ellipse/hello v0.0.0-20181128123803-65fb0ef8b9b2 h1:vSmmKopIt6CBEjdLqdnVp6bPi9Gy+8yT9IGn58JW7mU=
+github.com/garywu125/ellipse/hello v0.0.0-20181128123803-65fb0ef8b9b2/go.mod h1:evXxdiq1WH9XBZMaLXVlxeivIGtpnIjuGkSabViAx4Y=
 github.com/konsorten/go-windows-terminal-sequences v1.0.1 h1:mweAR1A6xJ3oS2pRaGiHgQ4OO8tzTaLawm8vnODuwDk=
 github.com/konsorten/go-windows-terminal-sequences v1.0.1/go.mod h1:T0+1ngSBFLxvqU3pZ+m/2kptfBszLMUkC4ZK/EgS/cQ=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
